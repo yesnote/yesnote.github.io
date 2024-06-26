@@ -6,7 +6,7 @@ tag: [HEVC]
 use_math: true
 ---
 
-이 글은 HEVC의 간략한 내용 정리에 관한 기록입니다.
+이 글은 HEVC의 내용을 정리한 기록입니다.
 
 
 # Block Partitioning
