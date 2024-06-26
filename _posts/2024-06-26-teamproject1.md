@@ -9,7 +9,7 @@ use_math: true
 이 글은 HEVC의 간략한 내용 정리에 관한 기록입니다.
 
 
-# Block Partitiong
+# Block Partitioning
 
 
 
