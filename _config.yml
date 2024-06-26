@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "YesNote"
+  name             : "예성진 (Seongjin Ye)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "예스노트의 블로그입니다"
+  bio              : "Archive"
   location         : "SKKU, Republic of Korea"
   email            : 
   links:
