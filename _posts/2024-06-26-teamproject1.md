@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "[Team Research Project 2024] HEVC Overview (Block Partitioning & Intra Prediction)"
-categories: TRP2024
+title:  "[HEVC] Block Partitioning & Intra Prediction"
+categories: [Team Research Project 2024]
 tag: [HEVC]
 use_math: true
 ---

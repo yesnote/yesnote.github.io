@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "[Team Research Project 2024] NNVC Intra Prediction"
-categories: TRP2024
+title:  "[NNVC] Intra Prediction"
+categories: [Team Research Project 2024]
 tag: [NNVC, HEVC]
 use_math: true
 ---
